@@ -1,0 +1,9 @@
+.font{
+  font-size: 25px;
+}
+.input{
+  width: 100%;
+}
+input[type="text"]{
+  width: 100%;
+}
